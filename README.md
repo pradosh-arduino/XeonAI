@@ -11,3 +11,9 @@
     - **RAM:** 4 GB DDR3
     - **GPU:** Intel HD Graphics
     - **Storage:** Any (SSD/HDD)
+ 
+  - **Recommended Hardware Requirements**
+    - **CPU:** Intel Core i5 7 GEN @ >=2.14 GHz GHz
+    - **RAM:** 8 GB DDR4
+    - **GPU:** Intel UHD Graphics 620 // Radeon M430
+    - **Storage:** SSD
