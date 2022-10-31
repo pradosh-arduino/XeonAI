@@ -21,4 +21,4 @@
     - **Cooling:** Water Cooling
 
 ## Node Graph
-![NodeGraph](https://github.com/pradosh-arduino/XeonAI/blob/main/assets/XeonAI-NodeGraph.png)
+<img height="70%" width="70%" src="https://github.com/pradosh-arduino/XeonAI/blob/main/assets/XeonAI-NodeGraph.png">
