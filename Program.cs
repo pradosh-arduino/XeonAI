@@ -206,12 +206,6 @@ namespace pradosh_arduino
                 bias[1] = (LearningRate * delta * 0.231987342648346748f) + (Momentum * bias[1]);
                 bias[2] = (LearningRate * delta * 0.231987342648346748f) + (Momentum * bias[2]);
                 bias[3] = (LearningRate * delta * 0.231987342648346748f) + (Momentum * bias[3]);
-
-                weight_1[1] = (LearningRate * delta * 0.9384984760883627906867f) + (Momentum * weight_1[1]);
-                weight_1[2] = (LearningRate * delta * 0.9384984760883627906867f) + (Momentum * weight_1[2]);
-
-                weight_2[1] = (LearningRate * delta * 0.12389609204626760362f) + (Momentum * weight_2[1]);
-                weight_2[2] = (LearningRate * delta * 0.12389609204626760362f) + (Momentum * weight_2[2]);
             }
         }
     }
