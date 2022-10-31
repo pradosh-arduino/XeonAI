@@ -19,3 +19,6 @@
     - **GPU:** Intel UHD Graphics 620 // Radeon M430
     - **Storage:** SSD
     - **Cooling:** Water Cooling
+
+## Node Graph
+![NodeGraph](https://github.com/pradosh-arduino/XeonAI/blob/main/assets/XeonAI-NodeGraph.png)
