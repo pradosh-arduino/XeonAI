@@ -4,6 +4,7 @@
   This is an AI Made with Neural Network
   
   [![HitCount](https://hits.dwyl.com/pradosh-arduino/XeonAI.svg?style=flat-square&show=unique)](http://hits.dwyl.com/pradosh-arduino/XeonAI)
+  [![Say Thanks](https://img.shields.io/badge/say-thanks-ff69b4.svg?style=flat-square)](https://saythanks.io/to/pradosh-arduino)
 
 ## Running The AI
   This AI requires ![Heavy](https://img.shields.io/badge/Heavy-red?style=flat-square) Computing Resources!
